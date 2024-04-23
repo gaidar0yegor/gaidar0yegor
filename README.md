@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **PyTorch**
 
-- 💬 Ask me about **MERN C++ Java**
+- 💬 Ask me about **MERN C++ Java Python**
 
 - 📫 How to reach me **maingaidar@gmail.com**
 
