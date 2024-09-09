@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **MERN C C++ Java Python**
 
-- 📫 How to reach me **maingaidar@gmail.com**
-
 <p align="left">
 </p>
 
