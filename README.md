@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaidar0yegor&label=Profile%20views&color=0e75b6&style=flat" alt="gaidar0yegor" /> </p>
 
-- 🌱 I’m currently learning **Bend**
+- 🌱 I’m currently learning **AI**
 
 - 💬 Ask me about **MERN C C++ Java Python**
 
